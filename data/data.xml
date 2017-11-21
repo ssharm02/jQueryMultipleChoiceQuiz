@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+   <title>My Quiz</title>
+   <questions>
+   <question>
+      <description>Question 1</description>
+      <text>Who is the current president of America?</text>
+      <option correct="false">Mr. Orangatan</option>
+      <option correct="false">Orange Man</option>
+      <option correct="true">Ex KGB Agent Putin</option>
+      <option correct="false">Donald Trump</option>
+  </question>
+  <question>
+      <description>question2</description>
+      <text>What's Kali linux used for?</text>
+      <option correct="false">Secure online shopping</option>
+      <option correct="true">Sabotaging political candidates in foreign countries</option>
+      <option correct="false">To manage library book databases</option>
+      <option correct="false">Teaching mathematics to kids</option>
+  </question>
+</questions>
+  </quiz>

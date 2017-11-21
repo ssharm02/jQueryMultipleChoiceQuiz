@@ -1,0 +1,21 @@
+body {
+ margin: auto;
+ margin-top: 20px;
+ text-align: center;
+}
+
+.optionHovered {
+	background-color: yellow;
+}
+
+.option {
+	cursor: pointer;
+}
+
+.correct {
+	color: green;
+}
+
+.wrong {
+	color: red;
+}
